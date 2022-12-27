@@ -6,4 +6,4 @@
 <br>
 ### [underlying mathematical concept]
 The IEM re-construct the stimuli as a weighted sum of hypothesized channels.<br>
-Baseline from each voxel's response:
+Baseline from each voxel's response: B=B-m({m^T}B)
